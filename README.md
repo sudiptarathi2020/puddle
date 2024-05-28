@@ -15,21 +15,21 @@ If you want to contribute, clone this repository and made a pull request.Request
 # Some Screenshots
 <figure style="margin-bottom: 50px;">
   <img src="screenshots/home.png" alt="home.png" style="width: 80%;"/>
-  <figcaption>Home page</figcaption>
+  
 </figure>
 <br>
 <figure style="margin-bottom: 50px;">
   <img src="screenshots/inbox.png" alt="inbox.png" style="width: 80%;"/>
-  <figcaption>Inbox page</figcaption>
+
 </figure>
 <br>
 <figure style="margin-bottom: 50px;">
   <img src="screenshots/search.png" alt="search.png" style="width: 80%;"/>
-  <figcaption>Search page</figcaption>
+  
 </figure>
 <br>
 <figure style="margin-bottom: 50px;">
   <img src="screenshots/contactseller.png" alt="contactseller.png" style="width: 80%;"/>
-  <figcaption>Contact Seller page</figcaption>
+ 
 </figure>
 
